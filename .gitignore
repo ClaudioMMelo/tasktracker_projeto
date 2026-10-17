@@ -1,0 +1,15 @@
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+ENV/
+
+# Configurações do VS Code / IDEs
+.vscode/
+.idea/
+*.swp
