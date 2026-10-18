@@ -18,6 +18,11 @@ O **TaskTracker** é um sistema simples e prático desenvolvido em Python para g
 
 ---
 
+## Link do vídeo do youtube:
+(https://youtu.be/CK-HlX3XfJw)
+
+---
+
 ## Estrutura do Repositório
 ```text
 tasktracker-projeto/
@@ -27,10 +32,3 @@ tasktracker-projeto/
 │   └── planejamento_logico.pdf
 └── src/
     └── main.py
-
-
----
-
-## Vídeo de Apresentação
-Vídeo de apresentação da entrega intermediária no youtube:   
-Link: (https://youtu.be/CK-HlX3XfJw)
