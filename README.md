@@ -27,3 +27,10 @@ tasktracker-projeto/
 │   └── planejamento_logico.pdf
 └── src/
     └── main.py
+
+
+---
+
+## Vídeo de Apresentação
+Vídeo de apresentação da entrega intermediária no youtube:   
+Link: (https://youtu.be/CK-HlX3XfJw)
